@@ -1,0 +1,59 @@
+ 28.04.23
+
+ Library Installing
+    Axios 
+        Read upon competing Library
+        axios vs fetch
+        
+    firebase 
+    styled-components
+    react-icons 
+    react-redux
+    @reduxjs/toolkit
+    react-router-dom 
+
+29.04.23
+    TO LEARN
+
+    Browser Router: For Routing between pages in react app
+
+    Learn more about routing.
+
+    Learn about styles components vs CSS
+
+    WHATS DONE
+
+    Setup firebase
+    Created components folder
+    Setup BackgroundImage.jsx Header.jsx 
+    Made a little bit of signup details.
+
+30.04.23
+
+    Added BackgroundImage.
+    Learnt a bit of flex and grid.
+    Learnt about view ports.
+    Learnt about positioning.
+    Added Logo
+
+01.04.23
+
+    Learnt about useNavigate from react router dom
+    Added Signup and Login button.
+    Styled the front page
+    Learned about webkit form smoothing.
+    Learnt about overflow x.
+
+
+02.04.23
+
+
+    
+
+
+
+    
+
+
+
+
